@@ -211,7 +211,6 @@ const LandingPage: React.FC = () => {
           <div className="pt-8">
             <WhatsAppButton text="QUERO MINHA AVALIAÇÃO AGORA" />
           </div>
-          <p className="text-premium-gold font-bold uppercase tracking-widest text-sm pt-4 italic">Sem compromisso. Apenas cuidado.</p>
         </div>
         
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[20vw] font-display font-bold text-gray-50 opacity-[0.03] select-none pointer-events-none uppercase whitespace-nowrap">
